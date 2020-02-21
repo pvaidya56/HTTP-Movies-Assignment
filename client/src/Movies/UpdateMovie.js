@@ -61,7 +61,6 @@ const UpdateMovie = (props) => {
                     }) : null}
                 </div>
                 <button type="submit">Update Movie</button>
-                <button>Update Movie</button>
             </form>
         </div>
     )
